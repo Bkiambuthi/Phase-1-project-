@@ -10,7 +10,9 @@ Using exploratory data analysis to generate insights for a new Movie Studio
 ## Business Problem
 
 The Entertainment industry is evolving rapidly, could there still be an opportunity for a new movie studio?
+
 What Genres are people interested in?
+
 How has the Movie industry performance been like?
 
 
