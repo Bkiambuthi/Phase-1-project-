@@ -40,6 +40,8 @@ A list of various movies genres from the movie DB.
 3. Further analysis is required to establish the reason for the decline in the revenue from 2010 onwards.
 
 
-
+### resources
+Notebook: https://github.com/Bkiambuthi/Phase-1-project-/blob/main/New%20Movie%20Studio.ipynb
+Presentation: 
 
 
