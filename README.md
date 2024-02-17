@@ -42,6 +42,7 @@ A list of various movies genres from the movie DB.
 
 ### resources
 Notebook: https://github.com/Bkiambuthi/Phase-1-project-/blob/main/New%20Movie%20Studio.ipynb
-Presentation: 
+
+Presentation: https://github.com/Bkiambuthi/Phase-1-project-/blob/main/New%20Movie%20Studio%20Notebook.pdf
 
 
